@@ -25,8 +25,6 @@
     
 </div>
 <br/>
-<h1></h1>
-<br/>
 <h2>DBMS</h2>
 
 <div style="display: inline_block"><br/>
@@ -38,15 +36,12 @@
     <img align="center" alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
 <br/>
-<h1></h1>
 <h2>ORM</h2>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
 <br/>
-<h1></h1>
-
 <h2>Tools</h2>
 
 <div style="display: inline_block"><br/>
@@ -54,7 +49,6 @@
     <img align="center" alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?logoColor=white&amp;style=for-the-badge">
 </div>
 <br/>
-<h1></h1>
 <h2>IDE</h2>
 
 <div style="display: inline_block"><br/>
@@ -63,7 +57,6 @@
     <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 <br/>
-<h1></h1>
 <h2>Linters</h2>
 
 <div style="display: inline_block"><br/>
