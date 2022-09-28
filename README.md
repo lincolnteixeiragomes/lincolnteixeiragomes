@@ -8,6 +8,7 @@
 
 ![Lincoln GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnteixeiragomes&theme=dracula)
 <br/>
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnteixeiragomes&layout=compact)
 </div>
 <br/>
