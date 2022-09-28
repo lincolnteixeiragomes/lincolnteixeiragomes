@@ -75,3 +75,10 @@
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 <br/>
+<h2>Web Server</h2>
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Apache" src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white">
+    <img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+</div>
+<br/>
