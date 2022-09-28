@@ -1,6 +1,9 @@
-### Hello! I'm Lincoln Gomes 🖐️
-<hr>
+# Hello! I'm Lincoln Gomes 🖐️
 
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincoln-gomes-31b9568b/)
+
+<hr>
+<br/>
 <div align="center">
 
 ![Lincoln GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnteixeiragomes&theme=dracula)
