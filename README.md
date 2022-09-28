@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-<h1>List of skills</h1>
+<h1>List of skills 🚀</h1>
 
 
 <h2>Language</h2>
@@ -63,4 +63,3 @@
     <img align="center" alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
 </div>
 <br/>
-<hr>
